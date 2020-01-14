@@ -29,36 +29,6 @@
       "eka": "पठामि",
       "dvi": "पठावः",
       "bahu": "पठामः"
-    },
-    {
-      "id": 4,
-      "dhatu": "paT",
-      "voice": "kartari",
-      "lakara": "lot",
-      "purusha": "prathama",
-      "eka": "पठतु",
-      "dvi": "पठताम्",
-      "bahu": "पठन्तु्"
-    },
-    {
-      "id": 5,
-      "dhatu": "paT",
-      "voice": "kartari",
-      "lakara": "lot",
-      "purusha": "madhyama",
-      "eka": "पठसि",
-      "dvi": "पठथः",
-      "bahu": "पठथ"
-    },
-    {
-      "id": 6,
-      "dhatu": "paT",
-      "voice": "kartari",
-      "lakara": "lot",
-      "purusha": "uttama",
-      "eka": "पठामि",
-      "dvi": "पठावः",
-      "bahu": "पठामः"
     }
   ]
 }
