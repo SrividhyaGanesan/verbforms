@@ -2,9 +2,10 @@
   "data": [
     {
       "id": 1,
-      "dhatu": "paT"
-      "lakara": "lat"
-      "purusha": "prathama"
+      "dhatu": "paT",
+      "lakara": "lat",
+      "purusha": "prathama",
+      "eka": "पठति"
     }
   ]
 }
