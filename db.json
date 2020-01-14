@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "data": [
     {
       "id": 1,
-      "title": "hello"
+      "dhatu": "paT"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
