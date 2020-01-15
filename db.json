@@ -59,6 +59,36 @@
       "eka": "पतामि",
       "dvi": "पतावः",
       "bahu": "पतामः"
+    },
+    {
+      "id": 7,
+      "dhatu": "paT",
+      "voice": "karmani",
+      "lakara": "lat",
+      "purusha": "prathama",
+      "eka": "पठ्यते",
+      "dvi": "पठ्येते",
+      "bahu": "पठ्यन्ते"
+    },
+    {
+      "id": 8,
+      "dhatu": "paT",
+      "voice": "karmani",
+      "lakara": "lat",
+      "purusha": "madhyama",
+      "eka": "पठ्यसे",
+      "dvi": "पठ्येथेः",
+      "bahu": "पठ्यध्वे"
+    },
+    {
+      "id": 9,
+      "dhatu": "paT",
+      "voice": "karmani",
+      "lakara": "lat",
+      "purusha": "uttama",
+      "eka": "पठ्ये",
+      "dvi": "पठ्यावहे",
+      "bahu": "पठ्यामहे"
     }
   ]
 }
