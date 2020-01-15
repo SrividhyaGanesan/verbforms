@@ -35,10 +35,20 @@
       "dhatu": "pat",
       "voice": "kartari",
       "lakara": "lot",
-      "purusha": "uttama",
-      "eka": "पठामि",
-      "dvi": "पठावः",
-      "bahu": "पठामः"
+      "purusha": "prathama",
+      "eka": "पतति",
+      "dvi": "पततः",
+      "bahu": "पतन्ति"
+    },
+        {
+      "id": 5,
+      "dhatu": "pat",
+      "voice": "kartari",
+      "lakara": "lot",
+      "purusha": "madhyama",
+      "eka": "पतसि",
+      "dvi": "पतथः",
+      "bahu": "पतथ"
     }
   ]
 }
