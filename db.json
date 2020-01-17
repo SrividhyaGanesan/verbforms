@@ -149,6 +149,36 @@
       "eka": "अपठम्",
       "dvi": "अपठाव",
       "bahu": "अपठाम"
+    },
+    {
+      "id": 16,
+      "dhatu": "paT",
+      "voice": "kartari",
+      "lakara": "lrt",
+      "purusha": "prathama",
+      "eka": "पठिष्यति",
+      "dvi": "पठिष्यतः",
+      "bahu": "पठिष्यन्ति"
+    },
+    {
+      "id": 17,
+      "dhatu": "paT",
+      "voice": "kartari",
+      "lakara": "lrt",
+      "purusha": "madhyama",
+      "eka": "पठिष्यसि",
+      "dvi": "पठिष्यथः",
+      "bahu": "पठिष्यथ"
+    },
+    {
+      "id": 18,
+      "dhatu": "paT",
+      "voice": "kartari",
+      "lakara": "lrt",
+      "purusha": "uttama",
+      "eka": "पठिष्यामि",
+      "dvi": "पठिष्यावः",
+      "bahu": "पठिष्यामः"
     }
   ]
 }
