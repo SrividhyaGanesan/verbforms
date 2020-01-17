@@ -119,6 +119,36 @@
       "eka": "पठानि",
       "dvi": "पठाव",
       "bahu": "पठाम"
+    },
+    {
+      "id": 13,
+      "dhatu": "paT",
+      "voice": "kartari",
+      "lakara": "lang",
+      "purusha": "prathama",
+      "eka": "अपठत्",
+      "dvi": "अपठताम्",
+      "bahu": "अपठन्"
+    },
+    {
+      "id": 14,
+      "dhatu": "paT",
+      "voice": "kartari",
+      "lakara": "lang",
+      "purusha": "madhyama",
+      "eka": "अपठ:",
+      "dvi": "अपठतम्",
+      "bahu": "अपठत"
+    },
+    {
+      "id": 15,
+      "dhatu": "paT",
+      "voice": "kartari",
+      "lakara": "lang",
+      "purusha": "uttama",
+      "eka": "अपठम्",
+      "dvi": "अपठाव",
+      "bahu": "अपठाम"
     }
   ]
 }
